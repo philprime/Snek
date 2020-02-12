@@ -23,6 +23,7 @@ extension ModuleInterface {
         assemble(presenter: presenter, view: view)
         assemble(presenter: presenter, router: router)
         assemble(presenter: presenter, interactor: interactor)
+        assemble(router: router, view: view)
     }
     
     public func assemble(presenter: Presenter, view: View) {
@@ -38,5 +39,9 @@ extension ModuleInterface {
     public func assemble(presenter: Presenter, interactor: Interactor) {
         presenter.interactor = (interactor as! Self.Presenter.InteractorInterface)
         interactor.presenter = (presenter as! Self.Interactor.PresenterInterface)
+    }
+    
+    public func assemble(router: Router, view: View) {
+        router.view = (view as! Self.Router.ViewInterface)
     }
 }
