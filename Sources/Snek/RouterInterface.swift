@@ -6,7 +6,7 @@
 //  Copyright © 2020 Philip Niedertscheider. All rights reserved.
 //
 
-protocol RouterInterface: PresenterToRouterInterface {
+public protocol RouterInterface: PresenterToRouterInterface {
     
     associatedtype PresenterInterface
     

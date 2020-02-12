@@ -6,6 +6,6 @@
 //  Copyright © 2020 Philip Niedertscheider. All rights reserved.
 //
 
-protocol PresenterToViewInterface: class {
+public protocol PresenterToViewInterface: class {
     
 }

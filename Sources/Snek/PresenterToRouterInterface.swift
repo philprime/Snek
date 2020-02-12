@@ -6,6 +6,6 @@
 //  Copyright © 2020 Philip Niedertscheider. All rights reserved.
 //
 
-protocol PresenterToRouterInterface: class {
+public protocol PresenterToRouterInterface: class {
     
 }

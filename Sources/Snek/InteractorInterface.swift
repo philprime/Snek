@@ -6,7 +6,7 @@
 //  Copyright © 2020 Philip Niedertscheider. All rights reserved.
 //
 
-protocol InteractorInterface: PresenterToInteractorInterface {
+public protocol InteractorInterface: PresenterToInteractorInterface {
     
     associatedtype PresenterInterface
     

@@ -6,6 +6,6 @@
 //  Copyright © 2020 Philip Niedertscheider. All rights reserved.
 //
 
-protocol EntityInterface {
+public protocol EntityInterface {
     
 }

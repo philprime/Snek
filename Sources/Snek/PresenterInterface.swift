@@ -6,7 +6,7 @@
 //  Copyright © 2020 Philip Niedertscheider. All rights reserved.
 //
 
-protocol PresenterInterface: ViewToPresenterInterface & InteractorToPresenterInterface & RouterToPresenterInterface {
+public protocol PresenterInterface: ViewToPresenterInterface & InteractorToPresenterInterface & RouterToPresenterInterface {
     
     associatedtype InteractorInterface
     associatedtype RouterInterface

@@ -6,7 +6,7 @@
 //  Copyright © 2020 Philip Niedertscheider. All rights reserved.
 //
 
-protocol ViewInterface: PresenterToViewInterface {
+public protocol ViewInterface: PresenterToViewInterface {
     
     associatedtype PresenterInterface
     
