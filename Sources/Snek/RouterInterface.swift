@@ -13,6 +13,5 @@ public protocol RouterInterface: PresenterToRouterInterface {
     
     var presenter: PresenterInterface! { get set }
     var view: ViewInterface! { get set }
-    
-    init(presenter: PresenterInterface)
+
 }

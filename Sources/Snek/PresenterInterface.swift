@@ -12,9 +12,9 @@ public protocol PresenterInterface: ViewToPresenterInterface & InteractorToPrese
     associatedtype RouterInterface
     associatedtype ViewInterface
     
-    var view: ViewInterface! { get set }
     var interactor: InteractorInterface { get set }
-    var router: RouterInterface! { get set }
+    var router: RouterInterface { get set }
+    var view: ViewInterface! { get set }
     
-    init(interactor: InteractorInterface) 
+    init(interactor: InteractorInterface, router: RouterInterface) 
 }
