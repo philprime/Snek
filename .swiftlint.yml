@@ -1,0 +1,22 @@
+included:
+  - Sources
+
+# Rules
+identifier_name:
+  excluded:
+    - KiB
+    - MiB
+    - GiB
+    - TiB
+    - PiB
+    - EiB
+    - ZiB
+    - YiB
+    - kB
+    - MB
+    - GB
+    - TB
+    - PB
+    - EB
+    - ZB
+    - YB
