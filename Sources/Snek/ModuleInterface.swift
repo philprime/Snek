@@ -6,6 +6,8 @@
 //  Copyright © 2020 Philip Niedertscheider. All rights reserved.
 //
 
+// swiftlint:disable force_cast
+
 public protocol ModuleInterface: class {
 
     associatedtype View where View: ViewInterface

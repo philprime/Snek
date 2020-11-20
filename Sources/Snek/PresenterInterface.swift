@@ -6,6 +6,8 @@
 //  Copyright © 2020 Philip Niedertscheider. All rights reserved.
 //
 
+// swiftlint:disable line_length
+
 public protocol PresenterInterface: ViewToPresenterInterface & InteractorToPresenterInterface & RouterToPresenterInterface {
 
     associatedtype InteractorInterface
