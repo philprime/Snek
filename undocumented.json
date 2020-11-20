@@ -1,0 +1,278 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/EntityInterface.swift",
+      "line": 9,
+      "symbol": "EntityInterface",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/InteractorInterface.swift",
+      "line": 9,
+      "symbol": "InteractorInterface",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/InteractorInterface.swift",
+      "line": 11,
+      "symbol": "InteractorInterface.PresenterInterface",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/InteractorInterface.swift",
+      "line": 13,
+      "symbol": "InteractorInterface.presenter",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/InteractorToPresenterInterface.swift",
+      "line": 9,
+      "symbol": "InteractorToPresenterInterface",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/ModuleInterface.swift",
+      "line": 11,
+      "symbol": "ModuleInterface",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/ModuleInterface.swift",
+      "line": 13,
+      "symbol": "ModuleInterface.View",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/ModuleInterface.swift",
+      "line": 14,
+      "symbol": "ModuleInterface.Interactor",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/ModuleInterface.swift",
+      "line": 15,
+      "symbol": "ModuleInterface.Router",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/ModuleInterface.swift",
+      "line": 16,
+      "symbol": "ModuleInterface.Presenter",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/ModuleInterface.swift",
+      "line": 18,
+      "symbol": "ModuleInterface.assemble(presenter:view:interactor:router:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/ModuleInterface.swift",
+      "line": 22,
+      "symbol": "ModuleInterface",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/ModuleInterface.swift",
+      "line": 24,
+      "symbol": "ModuleInterface.assemble(presenter:view:interactor:router:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/ModuleInterface.swift",
+      "line": 31,
+      "symbol": "ModuleInterface.assemble(presenter:view:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/ModuleInterface.swift",
+      "line": 36,
+      "symbol": "ModuleInterface.assemble(presenter:router:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/ModuleInterface.swift",
+      "line": 41,
+      "symbol": "ModuleInterface.assemble(presenter:interactor:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/ModuleInterface.swift",
+      "line": 46,
+      "symbol": "ModuleInterface.assemble(router:view:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/PresenterInterface.swift",
+      "line": 11,
+      "symbol": "PresenterInterface",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/PresenterInterface.swift",
+      "line": 13,
+      "symbol": "PresenterInterface.InteractorInterface",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/PresenterInterface.swift",
+      "line": 14,
+      "symbol": "PresenterInterface.RouterInterface",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/PresenterInterface.swift",
+      "line": 15,
+      "symbol": "PresenterInterface.ViewInterface",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/PresenterInterface.swift",
+      "line": 17,
+      "symbol": "PresenterInterface.interactor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/PresenterInterface.swift",
+      "line": 18,
+      "symbol": "PresenterInterface.router",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/PresenterInterface.swift",
+      "line": 19,
+      "symbol": "PresenterInterface.view",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/PresenterInterface.swift",
+      "line": 21,
+      "symbol": "PresenterInterface.init(interactor:router:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/PresenterToInteractorInterface.swift",
+      "line": 9,
+      "symbol": "PresenterToInteractorInterface",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/PresenterToRouterInterface.swift",
+      "line": 9,
+      "symbol": "PresenterToRouterInterface",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/PresenterToViewInterface.swift",
+      "line": 9,
+      "symbol": "PresenterToViewInterface",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/RouterInterface.swift",
+      "line": 9,
+      "symbol": "RouterInterface",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/RouterInterface.swift",
+      "line": 11,
+      "symbol": "RouterInterface.PresenterInterface",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/RouterInterface.swift",
+      "line": 12,
+      "symbol": "RouterInterface.ViewInterface",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/RouterInterface.swift",
+      "line": 14,
+      "symbol": "RouterInterface.presenter",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/RouterInterface.swift",
+      "line": 15,
+      "symbol": "RouterInterface.view",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/RouterToPresenterInterface.swift",
+      "line": 9,
+      "symbol": "RouterToPresenterInterface",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/ViewInterface.swift",
+      "line": 9,
+      "symbol": "ViewInterface",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/ViewInterface.swift",
+      "line": 11,
+      "symbol": "ViewInterface.PresenterInterface",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/ViewInterface.swift",
+      "line": 13,
+      "symbol": "ViewInterface.presenter",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/ViewInterface.swift",
+      "line": 15,
+      "symbol": "ViewInterface.init(presenter:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Snek/Snek/Sources/Snek/ViewToPresenterInterface.swift",
+      "line": 9,
+      "symbol": "ViewToPresenterInterface",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/runner/work/Snek/Snek"
+}
