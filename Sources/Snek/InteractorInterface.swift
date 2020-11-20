@@ -7,9 +7,9 @@
 //
 
 public protocol InteractorInterface: PresenterToInteractorInterface {
-    
+
     associatedtype PresenterInterface
-    
+
     var presenter: PresenterInterface! { get set }
-    
+
 }

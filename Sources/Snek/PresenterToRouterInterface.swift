@@ -7,5 +7,5 @@
 //
 
 public protocol PresenterToRouterInterface: class {
-    
+
 }

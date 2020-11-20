@@ -7,10 +7,10 @@
 //
 
 public protocol RouterInterface: PresenterToRouterInterface {
-    
+
     associatedtype PresenterInterface
     associatedtype ViewInterface
-    
+
     var presenter: PresenterInterface! { get set }
     var view: ViewInterface! { get set }
 

@@ -7,5 +7,5 @@
 //
 
 public protocol InteractorToPresenterInterface: class {
-    
+
 }
